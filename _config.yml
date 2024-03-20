@@ -12,7 +12,6 @@ permalink: /:title/
 
 header_pages:
   - index.html
-  - documentation.md
   - demo/index.md
 
 sass:
@@ -24,6 +23,7 @@ plugins:
   - jekyll-seo-tag
 
 exclude:
+  - documentation.md
   - node_modules
   - package.json
   - package-lock.json
