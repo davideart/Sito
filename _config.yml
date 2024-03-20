@@ -1,12 +1,12 @@
-title: Great Great Jekyll Theme
-description: "Jekyll theme for Double Great projects."
-url: "https://doublegreat.dev"
-baseurl: /theme
+title: Davide Artuso Official Website
+description: "Il sito web ufficiale di davide Artuso."
+url: "https://davide.artuso.me/"
+baseurl: /davideart.github.io
 
 author:
-  name: "@double-great"
+  name: "@davideart"
 
-github: double-great/theme
+github: davideart/davideart.github.io
 
 permalink: /:title/
 
